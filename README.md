@@ -1,9 +1,6 @@
 
 <div align="center">
   <h1>PMA-Net: Prototypical Memory Attention Network (ICCV 2023) </h1>
-
-[![Conference](https://img.shields.io/badge/ICCV-2023-f9f107.svg)](https://aggiungere)
-[![Paper](https://img.shields.io/badge/Paper-arxiv.2303.12112-B31B1B.svg)](https://arxiv.org/abs/2303.12112)
   
 </div>
 
@@ -22,4 +19,5 @@ Please cite with the following BibTeX:
   <img src="model_pma_net.png" alt="PMA-Net" width="820" />
 </p> 
 
-## Environment Setup
+## TODO
+Source code and trained models will be released soon.
