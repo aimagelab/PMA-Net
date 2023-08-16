@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>PMA-Net: Prototypical Memory Attention Network (ICCV 2023) </h1>
+  <h1>PMA-Net: Prototypical Memory Attention Network<br>(ICCV 2023)</h1>
   
 </div>
 
